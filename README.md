@@ -10,6 +10,7 @@ Repository Structure
 │   ├── queries.sql          # SQL queries for data analysis
 │   └── README.md
 └── README.md
+
 Setup and Installation
 Clone this repository to your local machine:
 git clone https://github.com/your_username/sql-challenge.git
